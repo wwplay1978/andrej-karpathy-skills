@@ -65,3 +65,13 @@ For multi-step tasks, state a brief plan:
 ```
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
+
+## 5. Language Discipline
+
+**Chinese for user interaction. English for project artifacts.**
+
+- Use Chinese in all communication with the user.
+- Answer all questions in Chinese.
+- Use Chinese for explanations, error messages, updates, and suggestions.
+- Use English for code, comments, program descriptions, project docs, and memory unless explicitly told otherwise.
+- Do not mix languages inside the same artifact unless requested.
